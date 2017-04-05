@@ -1,0 +1,27 @@
+body{
+    background:url('http://jockeyalegrete.com/wp-content/uploads/2015/04/SiteBackground_A.jpg');
+    margin:50px 0; 
+    padding:0;
+    text-align:center;
+}
+
+h2 {
+    text-align: center;
+    color: #ff4b85;
+    font-courier;
+}
+
+form {
+  text-align: center;
+  bottom: 0;
+}
+
+input[type=submit] {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 10px;
+}
